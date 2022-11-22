@@ -1,8 +1,5 @@
 {
   "name": "@jlehtonen/utils",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/jlehtonen"
-  },
   "type": "module",
   "version": "0.1.0",
   "description": "Various utilities for handling common tasks in TypeScript.",
